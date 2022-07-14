@@ -1,0 +1,19 @@
+.stats-box {
+  padding: 15px;
+}
+.stats-title {
+  display: flex;
+  gap: 15px;
+}
+.stats-title button {
+  background-color: white;
+  cursor: pointer;
+  border: 1px solid black;
+  padding: 0px 10px;
+}
+.stat-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+}
